@@ -1,0 +1,2 @@
+# Resolusi
+menyimpan resolusi
